@@ -1,3 +1,5 @@
 {
-  "type":"module"
+  "name": "magic-link",
+  "version": "1.0.0",
+  "type": "module"
 }
